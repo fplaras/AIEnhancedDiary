@@ -1,0 +1,2 @@
+# AIEnhancedDiary
+AI Journal Assistant
